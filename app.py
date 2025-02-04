@@ -111,8 +111,3 @@ if submit:
         print(x)
     else:
         st.error("Please upload an image before submitting.")
-
-
-
-
-    
